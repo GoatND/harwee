@@ -1,0 +1,56 @@
+
+
+
+
+.headerbuttons
+{
+  
+    display: flex;
+    justify-content:center;
+    background-color: #98fb98;
+    width: 150px;
+    padding: 5px;
+    position:fixed;
+    top: 50px;
+    right: 10px;
+}
+
+
+.hdrbutton
+{
+    
+}
+
+
+.homelogo
+{
+
+}
+
+.sidebar
+{
+    display: flex-block;
+    width: min-content;
+    background-color:pink;
+    padding: 10px;
+    border-radius: 10%;
+    position: fixed;
+    top: 175px;
+}
+
+.browsetab
+{
+    background-color: #98fb98;
+    
+}
+
+.librarytab
+{
+    background-color: aqua;
+}
+
+.calendartab
+{
+
+background-color: antiquewhite;
+}
